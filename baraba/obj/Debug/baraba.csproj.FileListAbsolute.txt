@@ -1,0 +1,15 @@
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\bin\Debug\baraba.exe.config
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\bin\Debug\baraba.exe
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\bin\Debug\baraba.pdb
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\obj\Debug\baraba.Properties.Resources.resources
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\obj\Debug\baraba.csproj.GenerateResource.Cache
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\obj\Debug\baraba.exe
+C:\Users\kathr\AppData\Local\Temporary Projects\baraba\obj\Debug\baraba.pdb
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\bin\Debug\baraba.exe.config
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\obj\Debug\baraba.exe
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\obj\Debug\baraba.pdb
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\bin\Debug\baraba.exe
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\obj\Debug\baraba.csprojResolveAssemblyReference.cache
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\obj\Debug\baraba.Properties.Resources.resources
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\obj\Debug\baraba.csproj.GenerateResource.Cache
+C:\Users\kathr\Documents\Visual Studio 2012\Projects\baraba\baraba\bin\Debug\baraba.pdb
